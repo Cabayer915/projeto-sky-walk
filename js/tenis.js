@@ -1,4 +1,4 @@
-let pizzaJson=[
+let tenisJson=[
     {
       id: 1,
       name: 'Air Jordan 4 Black Cat',
